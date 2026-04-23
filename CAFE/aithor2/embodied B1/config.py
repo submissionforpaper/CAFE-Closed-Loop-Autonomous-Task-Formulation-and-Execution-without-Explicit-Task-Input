@@ -1,3 +1,0 @@
-# API配置
-DASHSCOPE_API_KEY = ""
-
