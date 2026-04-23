@@ -1,5 +1,5 @@
 
-# aithor2-v5 Project Guide
+# CAFE Project Guide
 
 ## Directory Overview
 
